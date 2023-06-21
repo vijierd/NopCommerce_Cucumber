@@ -1,0 +1,10 @@
+pageObject\AddCustomerPage.class
+testRunner\TestRunner.class
+utilities\DataReader$1.class
+pageObject\BaseClass.class
+pageObject\WaitHelper.class
+pageObject\SearchCustomerPage.class
+pageObject\BasePage.class
+pageObject\LoginPage.class
+stepDefinitions\steps.class
+utilities\DataReader.class
